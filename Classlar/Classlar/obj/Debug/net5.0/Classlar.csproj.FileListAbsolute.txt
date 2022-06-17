@@ -1,0 +1,16 @@
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.exe
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.deps.json
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.runtimeconfig.json
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.runtimeconfig.dev.json
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.dll
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\ref\Classlar.dll
+C:\Users\DELL\source\repos\Classlar\Classlar\bin\Debug\net5.0\Classlar.pdb
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.csproj.AssemblyReference.cache
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.AssemblyInfoInputs.cache
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.AssemblyInfo.cs
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.csproj.CoreCompileInputs.cache
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.dll
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\ref\Classlar.dll
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.pdb
+C:\Users\DELL\source\repos\Classlar\Classlar\obj\Debug\net5.0\Classlar.genruntimeconfig.cache
